@@ -5,4 +5,4 @@ const b: B = new B();
 const a: A = new A(b); //injection de dépendance
 //A dépend de B
 
-a.caculateAndPrintResult(2, 5); //result = 7
+a.calculateAndPrintResult(2, 5); //result = 7
