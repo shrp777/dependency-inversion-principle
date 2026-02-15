@@ -1,5 +1,15 @@
 # Dependency Inversion Principle (DIP)
 
+```bash
+bun run src/1-without-dip
+#result = 7
+
+bun run src/2-with-dip
+#result = 7
+#result = 10
+
+```
+
 --
 
 !["Logotype Shrp"](https://sherpa.one/images/sherpa-logotype.png)
