@@ -10,6 +10,8 @@ bun run src/2-with-dip
 
 ```
 
+![alt Dependency Inversion Principle (DIP)](assets/dip.png)
+
 --
 
 !["Logotype Shrp"](https://sherpa.one/images/sherpa-logotype.png)
